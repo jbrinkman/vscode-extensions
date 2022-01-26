@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		// See https://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+		// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+		// List of extensions which should be recommended for users of this workspace.
+		"recommendations": [
+			"adpyke.codesnap",
+			"alefragnani.Bookmarks",
+			"bradlc.vscode-tailwindcss",
+			"christian-kohler.npm-intellisense",
+			"ctf0.macros",
+			"dbaeumer.vscode-eslint",
+			"DotJoshJohnson.xml",
+			"eamodio.gitlens",
+			"eg2.vscode-npm-script",
+			"esbenp.prettier-vscode",
+			"JayFong.generate-index",
+			"ms-azuretools.vscode-azureappservice",
+			"ms-azuretools.vscode-azureresourcegroups",
+			"ms-azuretools.vscode-docker",
+			"ms-dotnettools.csharp",
+			"ms-vscode.azure-account",
+			"ms-vscode.powershell",
+			"ms-vsliveshare.vsliveshare",
+			"techer.open-in-browser",
+			"WallabyJs.quokka-vscode",
+			"yatki.vscode-surround"
+		]
+	}
+}

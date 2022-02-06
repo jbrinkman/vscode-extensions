@@ -29,7 +29,8 @@
 			"ms-vsliveshare.vsliveshare",
 			"techer.open-in-browser",
 			"WallabyJs.quokka-vscode",
-			"yatki.vscode-surround"
+			"yatki.vscode-surround",
+			"dsznajder.es7-react-js-snippets"
 		]
 	}
 }
